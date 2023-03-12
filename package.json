@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "start",
+    "start": "node backend/index.js & webpack-dev-server ./frontend/public/",
     "start-dev": "nodemon backend/index.js & webpack-dev-server ./frontend/public/",
     "backend": "nodemon backend/index.js",
-    "fontend": "webpack-dev-server ./frontend/public/"
+    "frontend": "webpack-dev-server ./frontend/public/"
   },
   "repository": {
     "type": "git",
