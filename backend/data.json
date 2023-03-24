@@ -6,7 +6,8 @@
       "range": 25,
       "array": 2,
       "anchor": "Threshold",
-      "operational": 1
+      "operational": 1,
+      "id": 1
     },
   
     {
@@ -14,7 +15,8 @@
       "range": 25,
       "array": 2,
       "anchor": "Substance",
-      "operational": 1
+      "operational": 1,
+      "id": 2
     },
   
     {
@@ -22,7 +24,8 @@
       "range": 1,
       "array": 3,
       "anchor": "Earth",
-      "operational": 0
+      "operational": 0,
+      "id": 3
     },
   
     {
@@ -30,8 +33,11 @@
       "range": 2,
       "array": 2,
       "anchor": "test",
-      "operational": 2
+      "operational": 2,
+      "id": 4
     }
   ],
-  "test": "daniel"
+  
+  "test": "daniel",
+  "fiber": "Good for you"
 }

@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/DanielSWaite190/installation00#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
