@@ -4,7 +4,7 @@ import { RingCard } from "./components/RingCard";
 const App = () =>{
   return (
     <React.Fragment>
-        <RingCard/>
+      <RingCard/>
     </React.Fragment>
   )
 }
