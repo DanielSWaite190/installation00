@@ -1,5 +1,6 @@
 FROM node
-COPY . /app
-WORKDIR /app
-RUN npm i
-CMD ["webpack-dev-server", "public"]
+COPY . /backend
+WORKDIR /backend
+RUN npm install
+CMD ["node", "index.js"]
+EXPOSE 3000
