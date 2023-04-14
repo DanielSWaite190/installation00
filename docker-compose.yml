@@ -1,0 +1,10 @@
+services:
+  backend:
+    build: ./backend
+    ports: 
+      - 3000:3000
+  
+  frontend:
+    build: ./f
+    ports: 
+      - 5000:5000

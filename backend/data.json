@@ -1,0 +1,44 @@
+{
+  "rings": 
+  [
+    {
+      "installation": "07",
+      "range": 25,
+      "array": 2,
+      "anchor": "Threshold",
+      "operational": 1,
+      "img" : "https://c4.wallpaperflare.com/wallpaper/454/418/529/halo-infinite-4k-wallpaper-preview.jpg",
+      "id": 1
+    },
+  
+    {
+      "installation": "05",
+      "range": 25,
+      "array": 2,
+      "anchor": "Substance",
+      "operational": 1,
+      "id": 2
+    },
+  
+    {
+      "installation": "10",
+      "range": 1,
+      "array": 3,
+      "anchor": "Earth",
+      "operational": 0,
+      "id": 3
+    },
+  
+    {
+      "installation": "test",
+      "range": 2,
+      "array": 2,
+      "anchor": "test",
+      "operational": 2,
+      "id": 4
+    }
+  ],
+  
+  "test": "daniel",
+  "fiber": "Good for you"
+}
