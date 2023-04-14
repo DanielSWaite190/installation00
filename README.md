@@ -1,1 +1,8 @@
-https://dev.to/ivadyhabimana/how-to-create-a-react-app-without-using-create-react-app-a-step-by-step-guide-30nl
+On
+docker-compose up
+
+Off
+docker-compose down
+
+Off and remove
+docker-compose down --rmi all
